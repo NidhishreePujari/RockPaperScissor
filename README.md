@@ -16,6 +16,7 @@ A beginner-friendly GUI version of the classic Rock–Paper–Scissors game usin
 RockPaperScissor/
 
 │── app.py
+<br>
 │── README.md
 
 ## 🛠️ Requirements
