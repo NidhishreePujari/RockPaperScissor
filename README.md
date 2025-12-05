@@ -12,6 +12,7 @@ A beginner-friendly GUI version of the classic Rock–Paper–Scissors game usin
 - Very easy to understand and modify
 
 ## 📂 Project Structure
+
 RockPaperScissor/
 │── app.py
 │── README.md
@@ -32,10 +33,4 @@ RockPaperScissor/
 - Paper beats Rock
 - Scissors beats Paper
 - Matching choices result in a tie
-
-## 🚀 How to Run
-1. Make sure you have Python installed
-2. Download the `app.py` file
-3. Run the command: `python app.py`
-4. Enjoy the game!
 
